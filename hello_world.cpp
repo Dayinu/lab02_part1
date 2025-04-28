@@ -2,7 +2,9 @@
 #include <string>
 
 // Main program function
-int main() {
+int
+main()
+{
     // Variable to store the name
     std::string name;
     
