@@ -1,18 +1,18 @@
 #include <iostream>
 #include <string>
 
-// Главная функция программы
+// Main program function
 int main() {
-    // Объявление переменной для хранения имени
+    // Variable to store the name
     std::string name;
     
-    // Запрос имени пользователя
+    // Prompt for user's name
     std::cout << "Enter your name: ";
     std::cin >> name;
     
-    // Вывод приветствия
+    // Output greeting
     std::cout << "Hello world from " << name << std::endl;
     
-    // Возврат успешного статуса выполнения
+    // Return success status
     return 0;
 }
