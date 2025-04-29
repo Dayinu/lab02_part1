@@ -483,8 +483,9 @@ branch 'patch2' set up to track 'origin/patch2'.
 <img width="50%" height="50%" src="https://gist.github.com/user-attachments/assets/a220635b-9285-47f2-bf2b-04fa199ca813">
 <hr>
 5. Убедитесь, что в pull-request появились конфликтны.
-<br>
-<img width="50%" height="50%" src="https://gist.github.com/user-attachments/assets/0e1b457e-4d62-499f-b181-455c988806c4">
+<br>![3_5](https://github.com/user-attachments/assets/effda88f-bee7-43bc-afeb-1ac002fbf6a8)
+
+<img width="50%" height="50%" src="https://github.com/user-attachments/assets/effda88f-bee7-43bc-afeb-1ac002fbf6a8">
 <hr>
 6. Для этого локально выполните pull + rebase (точную последовательность команд, следует узнать самостоятельно). Исправьте конфликты.
 
