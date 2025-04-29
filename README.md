@@ -244,12 +244,12 @@ To github.com:Dayinu/lab02_part1.git
 ```
 <hr>
 8. Проверьте, что новые изменения есть в созданном на шаге 5 pull-request
-
-<img width="50%" height="50%" src="https://gist.github.com/user-attachments/assets/0df304b3-9a69-497a-9f04-b02dce281ee1">
+<br>
+<img width="50%" height="50%" src="https://github.com/user-attachments/assets/a905a167-ab64-405e-9135-96e5021725fa">
 <hr>
 9. В удалённый репозитории выполните слияние PR patch1 -> master и удалите ветку patch1 в удаленном репозитории.
 <br>
-<img width="50%" height="50%" src="https://gist.github.com/user-attachments/assets/a65ffd6e-3d62-489a-873a-a0e65fa8bd0a">
+<img width="50%" height="50%" src="https://github.com/user-attachments/assets/30dc2e7e-cba6-4eeb-8b64-b31379d54cee">
 <hr>
 
 10. Локально выполните pull.
@@ -475,16 +475,15 @@ To github.com:Dayinu/lab02_part1.git
  * [new branch]      patch2 -> patch2
 branch 'patch2' set up to track 'origin/patch2'.
 ```
-<img width="50%" height="50%" src="https://gist.github.com/user-attachments/assets/80b6e703-1ce8-4f90-b52d-d542cb67951d">
+<img width="50%" height="50%" src="https://github.com/user-attachments/assets/75ec6fdf-a04f-40b2-a39c-d42a9a5a242b">
 <hr>
-4. В ветке master в удаленном репозитории измените комментарии, например, расставьте знаки препинания, переведите комментарии на другой язык.
 
+4. В ветке master в удаленном репозитории измените комментарии, например, расставьте знаки препинания, переведите комментарии на другой язык.
 <br>
-<img width="50%" height="50%" src="https://gist.github.com/user-attachments/assets/a220635b-9285-47f2-bf2b-04fa199ca813">
+<img width="50%" height="50%" src="https://github.com/user-attachments/assets/b0391827-3532-4355-bbeb-34758b581281">
 <hr>
 5. Убедитесь, что в pull-request появились конфликтны.
-<br>![3_5](https://github.com/user-attachments/assets/effda88f-bee7-43bc-afeb-1ac002fbf6a8)
-
+<br>
 <img width="50%" height="50%" src="https://github.com/user-attachments/assets/effda88f-bee7-43bc-afeb-1ac002fbf6a8">
 <hr>
 6. Для этого локально выполните pull + rebase (точную последовательность команд, следует узнать самостоятельно). Исправьте конфликты.
