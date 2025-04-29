@@ -538,8 +538,8 @@ To github.com:Dayinu/lab02_part1.git
 <hr>
 8. Убедитесь, что в pull-request пропали конфликтны.
 <br>
-<img width="50%" height="50%" src="https://gist.github.com/user-attachments/assets/227aeb38-5623-4866-91e9-f013344c3fae">
-</p>
+<img width="50%" height="50%" src="[https://gist.github.com/user-attachments/assets/227aeb38-5623-4866-91e9-f013344c3fae](https://github.com/user-attachments/assets/ea937e48-d136-4947-9929-cd1eca281585)">
+<hr>
 9. Вмержите pull-request patch2 -> master.
  <br>
 <img width="50%" height="50%" src="https://github.com/user-attachments/assets/be42c13f-5302-4879-a124-df4c180a461a">
